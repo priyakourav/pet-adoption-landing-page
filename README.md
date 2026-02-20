@@ -24,6 +24,16 @@ I created this project to practice layout design, background images, gradients, 
  Flexbox
  Media Queries
 
+ ## Screenshots
+
+![Landing Page](assets/screenshot(403).png)
+
+![Jerry Section](assets/screenshot(404).png)
+
+![Tom Page](assets/screenshot(405).png)
+
+![Cta Section](assets/screenshot(406).png)
+
 I have not used any JavaScript in this project, as this project focuses on strengthening  my core HTML and CSS concepts.
 
 
