@@ -30,13 +30,13 @@ I created this project to practice layout design, background images, gradients, 
 
 ##  Screenshots
 
-![Landing Page](assets/screenshot(403).png)
+![Landing Page](assets/screenshot1.png)
 
-![Jerry Section](assets/Screenshot(404).png)
+![Jerry Section](assets/Screenshot2.png)
 
-![Tom Page](assets/Screenshot(405).png)
+![Tom Page](assets/Screenshot3.png)
 
-![Cta Section](assets/Screenshot(406).png)
+![Cta Section](assets/Screenshot4.png)
 
 I have not used any JavaScript in this project, as this project focuses on strengthening  my core HTML and CSS concepts.
 
