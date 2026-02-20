@@ -30,7 +30,7 @@ I created this project to practice layout design, background images, gradients, 
 
 ##  Screenshots
 
-![Landing Page](assets/screenshot1.png)
+![Landing Page](assets/Screenshot1.png)
 
 ![Jerry Section](assets/Screenshot2.png)
 
