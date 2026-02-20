@@ -24,15 +24,19 @@ I created this project to practice layout design, background images, gradients, 
  Flexbox
  Media Queries
 
- ## Screenshots
+##  Live Demo
+
+ https://priyakourav.github.io/pet-adoption-landing-page/
+
+##  Screenshots
 
 ![Landing Page](assets/screenshot(403).png)
 
-![Jerry Section](assets/screenshot(404).png)
+![Jerry Section](assets/Screenshot(404).png)
 
-![Tom Page](assets/screenshot(405).png)
+![Tom Page](assets/Screenshot(405).png)
 
-![Cta Section](assets/screenshot(406).png)
+![Cta Section](assets/Screenshot(406).png)
 
 I have not used any JavaScript in this project, as this project focuses on strengthening  my core HTML and CSS concepts.
 
