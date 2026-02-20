@@ -24,6 +24,8 @@ I created this project to practice layout design, background images, gradients, 
  Flexbox
  Media Queries
 
+ I have not used any JavaScript in this project, as this project focuses on strengthening  my core HTML and CSS concepts.
+
 ##  Live Demo
 
  https://priyakourav.github.io/pet-adoption-landing-page/
@@ -38,6 +40,6 @@ I created this project to practice layout design, background images, gradients, 
 
 ![Cta Section](assets/Screenshot4.png)
 
-I have not used any JavaScript in this project, as this project focuses on strengthening  my core HTML and CSS concepts.
+
 
 
